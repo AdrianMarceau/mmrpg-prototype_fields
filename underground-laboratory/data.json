@@ -1,0 +1,102 @@
+{
+    "field_token": "underground-laboratory",
+    "field_name": "Underground Laboratory",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "quick-man",
+    "field_master2": [],
+    "field_mechas": [
+        "spring-head"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "swift",
+    "field_type2": "",
+    "field_multipliers": {
+        "swift": 1.5,
+        "laser": 1.2,
+        "crystal": 0.5
+    },
+    "field_description": "Quick Man's Favourite Field",
+    "field_description2": "This secret government laboratory worked on highly classified material, the primary focus here being the usage of lasers in militarized combat. This technology proved intriguing to Wily's heinous scheme, so he sent his nimble right-hand man, Quick Man, to personally gift him its ownership. Thus, speed and lasers are of essence in grasping victory when it comes to battle. They're easy to miss, but Spring Heads travel across the ground to deliver surprising spring-powered headbutts. Top Man also occasionally spends time here when he's looking to challenge his dancing abilities by spinning around the deadly lasers. So much for future militarized combat.",
+    "field_music": "sega-remix\/quick-man-mm2",
+    "field_background": "underground-laboratory",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 44,
+            "offset_y": 145,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 353,
+            "offset_y": 145,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 517,
+            "offset_y": 177,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 708,
+            "offset_y": 145,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "underground-laboratory",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

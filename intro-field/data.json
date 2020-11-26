@@ -1,0 +1,32 @@
+{
+    "field_token": "intro-field",
+    "field_name": "Intro Field",
+    "field_game": "MMRPG",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "met"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "",
+    "field_description2": "The Intro Field was the first programmed field in the Prototype, filled to the brim with picturesque, luscious scenery. Within the distance, protruding mountains suggest the expanse of an ever-broadening horizon. Nothing seems to be negatively affected here, and as such it's the ideal place for a training session. There are no Robot Masters who have made this place their domain, but as a result there's a bit of a rabid Met problem. While houses may fill the landscape, there's not a soul here to be found, suggesting an unnerving silence to a place of such life...",
+    "field_music": "sega-remix\/boss-theme-mm1",
+    "field_background": "intro-field",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "intro-field",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 1,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

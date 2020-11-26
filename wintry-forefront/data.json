@@ -1,0 +1,32 @@
+{
+    "field_token": "wintry-forefront",
+    "field_name": "Wintry Forefront",
+    "field_game": "MM4",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "met"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "Cossack's Intro Field",
+    "field_description2": "Trudging through the snow in below-freezing weather is not a pleasant first step to make after suddenly waking up in a digital world, but as a realist, Dr. Cossack never regrets his stride as he looks to discover what aberration brought him here -- and how to return to his family. His goal is his citadel in the distance, nestled safely within the reassuring mountainscape of his home country. And safety is exactly what he needs at the moment, as besides the obvious nipping frostbite, there\u2019s a sudden infestation of Mets in the area! Once he gains his footing however, the harsh climate and abundance of Mechas may prove bountiful in any efforts to grow stronger. For now though, securing his home is his best shot at making contact with Dr. Light, and hopefully discovering the circumstances that brought them into the Prototype in the first place\u2026",
+    "field_music": "sega-remix\/cossack-fortress-1-mm4",
+    "field_background": "wintry-forefront",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "wintry-forefront",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

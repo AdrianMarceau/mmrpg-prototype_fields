@@ -1,0 +1,117 @@
+{
+    "MMRPG\/Intro": {
+        "group_class": "field",
+        "group_token": "MMRPG\/Intro",
+        "group_order": 0,
+        "group_child_tokens": [
+            "gentle-countryside",
+            "maniacal-hideaway",
+            "wintry-forefront"
+        ]
+    },
+    "MMRPG\/Home": {
+        "group_class": "field",
+        "group_token": "MMRPG\/Home",
+        "group_order": 1,
+        "group_child_tokens": [
+            "light-laboratory",
+            "wily-castle",
+            "cossack-citadel"
+        ]
+    },
+    "MM01\/Master": {
+        "group_class": "field",
+        "group_token": "MM01\/Master",
+        "group_order": 2,
+        "group_child_tokens": [
+            "abandoned-warehouse",
+            "mountain-mines",
+            "arctic-jungle",
+            "orb-city",
+            "steel-mill",
+            "electrical-tower",
+            "clock-citadel",
+            "oil-wells"
+        ]
+    },
+    "MM02\/Master": {
+        "group_class": "field",
+        "group_token": "MM02\/Master",
+        "group_order": 3,
+        "group_child_tokens": [
+            "industrial-facility",
+            "sky-ridge",
+            "waterfall-institute",
+            "underground-laboratory",
+            "pipe-station",
+            "photon-collider",
+            "atomic-furnace",
+            "preserved-forest"
+        ]
+    },
+    "MM03\/Master": {
+        "group_class": "field",
+        "group_token": "MM03\/Master",
+        "group_order": 4,
+        "group_child_tokens": [
+            "construction-site",
+            "magnetic-generator",
+            "reflection-chamber",
+            "rocky-plateau",
+            "spinning-greenhouse",
+            "serpent-column",
+            "power-plant",
+            "septic-system"
+        ]
+    },
+    "MM04\/Master": {
+        "group_class": "field",
+        "group_token": "MM04\/Master",
+        "group_order": 5,
+        "group_child_tokens": [
+            "lighting-control",
+            "rainy-sewers",
+            "mineral-quarry",
+            "egyptian-excavation",
+            "space-simulator",
+            "rusty-scrapheap",
+            "submerged-armory",
+            "robosaur-boneyard"
+        ]
+    },
+    "MM99\/Master": {
+        "group_class": "field",
+        "group_token": "MM99\/Master",
+        "group_order": 6,
+        "group_child_tokens": [
+            "crystal-catacombs",
+            "gemstone-cavern"
+        ]
+    },
+    "MMRPG\/Finale": {
+        "group_class": "field",
+        "group_token": "MMRPG\/Finale",
+        "group_order": 7,
+        "group_child_tokens": [
+            "final-destination",
+            "final-destination-2",
+            "final-destination-3"
+        ]
+    },
+    "MMRPG\/Bonus": {
+        "group_class": "field",
+        "group_token": "MMRPG\/Bonus",
+        "group_order": 8,
+        "group_child_tokens": [
+            "prototype-complete"
+        ]
+    },
+    "Hidden": {
+        "group_class": "field",
+        "group_token": "Hidden",
+        "group_order": 9,
+        "group_child_tokens": [
+            "intro-field"
+        ]
+    }
+}

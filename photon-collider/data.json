@@ -1,0 +1,102 @@
+{
+    "field_token": "photon-collider",
+    "field_name": "Photon Collider",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "flash-man",
+    "field_master2": [],
+    "field_mechas": [
+        "crazy-cannon"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "time",
+    "field_type2": "",
+    "field_multipliers": {
+        "time": 1.5,
+        "swift": 0.5,
+        "laser": 0.8
+    },
+    "field_description": "Flash Man's Favourite Field",
+    "field_description2": "While just a crystallized tunnel beforehand, Flash Man's phenomenal time-warping abilities altered it into a funnel of tachyon energy. These abnormalities amplify time energy, but this comes at the cost of abating acceleration and light-based momentum. The Crazy Cannons are Wily's own design, positioned in tight corners where they'll bombard a target with cannon shots. Whenever Time Man notices an irregularity of his own tachyon count at the Clock Citadel, he'll immediately travel to the Photon Collider in an effort to confront Flash Man over his thieving.",
+    "field_music": "sega-remix\/flash-man-mm2",
+    "field_background": "photon-collider",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 37,
+            "offset_y": 180,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 490,
+            "offset_y": 207,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 526,
+            "offset_y": 180,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -54,
+            "offset_y": 132,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "photon-collider",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                1
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

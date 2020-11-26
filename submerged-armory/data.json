@@ -1,0 +1,124 @@
+{
+    "field_token": "submerged-armory",
+    "field_name": "Submerged Armory",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "dive-man",
+    "field_master2": [],
+    "field_mechas": [
+        "manta-missile"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "missile",
+    "field_type2": "",
+    "field_multipliers": {
+        "missile": 1.5,
+        "earth": 0.7,
+        "water": 1.4
+    },
+    "field_description": "Dive Man's Favourite Field",
+    "field_description2": "This armory had originally been buoyant, but damages suffered during one of Wily's attempts at world domination caused the station to be almost entirely submerged. While this meant it was beyond use for humans, submersible robots like Dive Man continued to operate the base for restoration and combat efforts. There's plenty of ammo for Water and Missile-core robots here, but as all the platforms are composed of a metal alloy, Earth-core robots have almost no external power to rely on. Along with an assortment of mines and spikes that spilled out from the initial collapse, Manta Missiles patrol alongside the ship hulls to locate potential fuel leaks. Commando Man's been seen docking government-issue ships in this makeshift harbor as well, though he's very out of his element out in the sea.",
+    "field_music": "sega-remix\/dive-man-mm4",
+    "field_background": "submerged-armory",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -61,
+            "offset_y": 183,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 54,
+            "offset_y": 205,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 197,
+            "offset_y": 150,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 355,
+            "offset_y": 151,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 172,
+            "offset_y": 181,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 36,
+            "offset_y": 151,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "submerged-armory",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

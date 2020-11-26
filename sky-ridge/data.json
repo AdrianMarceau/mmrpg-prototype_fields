@@ -1,0 +1,113 @@
+{
+    "field_token": "sky-ridge",
+    "field_name": "Sky Ridge",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "air-man",
+    "field_master2": [],
+    "field_mechas": [
+        "fan-fiend"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "wind",
+    "field_type2": "",
+    "field_multipliers": {
+        "wind": 1.5,
+        "time": 0.8,
+        "earth": 0.6
+    },
+    "field_description": "Air Man's Favourite Field",
+    "field_description2": "Amid concerns on overpopulation of humans and robots, the Sky Ridge was proposed and funded as an elevated metallic landmass for the affluent to live upon; why it was decorated with Tengu faces, you'd have to ask whoever designed the thing. Unsurprisingly, before the project could ever be put to use, Wily's Air Man took it over as a base of operations to wreak havoc on the poor cities below. The elevated altitudes certainly do well for Wind Robots, with it having the exact opposite effects on Earth and Time robots. The Fan Fiends that take residence on the platforms would be just about harmless anywhere else, but on a platform thousands of feet off the ground, one cannot take any risks on falling off. Tengu Man tends to be a frequent visitor to the Sky Ridge; apparently, he's quite fond of the architecture.",
+    "field_music": "sega-remix\/air-man-mm2",
+    "field_background": "sky-ridge",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 84,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 206,
+            "offset_y": 206,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 295,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -12,
+            "offset_y": 163,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -84,
+            "offset_y": 209,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "sky-ridge",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,115 @@
+{
+    "field_token": "reflection-chamber",
+    "field_name": "Reflection Chamber",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "gemini-man",
+    "field_master2": [],
+    "field_mechas": [
+        "nitron-r",
+        "nitron-b",
+        "nitron-y"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "crystal",
+    "field_type2": "",
+    "field_multipliers": {
+        "crystal": 1.5,
+        "laser": 1.2,
+        "explode": 0.5
+    },
+    "field_description": "Gemini Man's Favourite Field",
+    "field_description2": "At a first glance, the Reflection Chamber would appear to be some sort of out-of-world glacial mining sector, but delving deeper reveals that algae growth experimentation led to a completely new form of crystalline flora engulfing the whole deposit. When the newly-mined Energy Elements were stolen by Light and Wily's line of robots, one of the marauders, Gemini Man, chose to retreat deep within the mine in a move to ambush Mega Man. A cunning move, as the flora strengthened both Crystal and Laser typed attacks. Three different elemental Nitrons survey the area, conducting aerial bombing raids to both destroy enemies and cull the growth of the mutated algae. There's been reports of Crystal Man making desperate attempts to bring some of the Reflection Chamber's flora with him; it's possible he believes that it'll somehow grant him clairvoyant powers?",
+    "field_music": "sega-remix\/gemini-man-mm3",
+    "field_background": "reflection-chamber",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 52,
+            "offset_y": 199,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 180,
+            "offset_y": 196,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 320,
+            "offset_y": 203,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 222,
+            "offset_y": 163,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 88,
+            "offset_y": 196,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "reflection-chamber",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                1
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,91 @@
+{
+    "field_token": "electrical-tower",
+    "field_name": "Electrical Tower",
+    "field_game": "MM1",
+    "field_class": "master",
+    "field_master": "elec-man",
+    "field_master2": [],
+    "field_mechas": [
+        "spine"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "electric",
+    "field_type2": "",
+    "field_multipliers": {
+        "electric": 1.5,
+        "wind": 0.5,
+        "impact": 1.1
+    },
+    "field_description": "Elec Man's Favourite Field",
+    "field_description2": "This electrical tower is one of the tallest man-made structures of the world, used by Mega City to funnel their electricity. Elec Man took over the tower to cut off the denizens of the city cold turkey, but thankfully Mega Man gave it right back. Electricity flows dangerously here, but the tower's aerodynamic design ensures that wind has very little impact. Spines function as cost-effective security measures, and are able to withstand high levels of energy. Spark Man often visits to try and make friends with the warped Elec Man, but he's only ever been met with Thunder Beams. He calls it a nice start.",
+    "field_music": "sega-remix\/elec-man-mm1",
+    "field_background": "electrical-tower",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 725,
+            "offset_y": 192,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 206,
+            "offset_y": 160,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 1,
+            "offset_y": 170,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "electrical-tower",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-04": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

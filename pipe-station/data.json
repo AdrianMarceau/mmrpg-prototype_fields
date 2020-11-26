@@ -1,0 +1,113 @@
+{
+    "field_token": "pipe-station",
+    "field_name": "Pipe Station",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "crash-man",
+    "field_master2": [],
+    "field_mechas": [
+        "killer-bullet"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "explode",
+    "field_type2": "",
+    "field_multipliers": {
+        "explode": 1.5,
+        "missile": 0.7,
+        "flame": 0.6
+    },
+    "field_description": "Crash Man's Favourite Field",
+    "field_description2": "Originally, this pipe station was meant to serve as a radio tower scraping the heavens and would offer internet access to the entire planet, but Crash Man's attack rendered it as a battle tower filled to the brim with Killer Bullets. Explosives reign supreme here, and the piping of the tower renders other incendiaries like missiles and flames ineffective. Mention was made earlier to the Killer Bullet mechas, but it must be repeated; they'll cause as much damage to the structure as they do themselves, and a pipe station extending into the stratosphere is uncomfortably unstable as is. Not uncomfortable enough to ward off Bomb Man apparently, as an explosively rigged tower high up in the sky is seemingly his idea of a fun time.",
+    "field_music": "sega-remix\/crash-man-mm2",
+    "field_background": "pipe-station",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 76,
+            "offset_y": 139,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 298,
+            "offset_y": 170,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 47,
+            "offset_y": 202,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 166,
+            "offset_y": 188,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 479,
+            "offset_y": 203,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "pipe-station",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

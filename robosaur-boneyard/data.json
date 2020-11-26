@@ -1,0 +1,124 @@
+{
+    "field_token": "robosaur-boneyard",
+    "field_name": "Robosaur Boneyard",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "skull-man",
+    "field_master2": [],
+    "field_mechas": [
+        "skullmet"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "shadow",
+    "field_type2": "",
+    "field_multipliers": {
+        "shadow": 1.5,
+        "impact": 1.3,
+        "swift": 0.6
+    },
+    "field_description": "Skull Man's Favourite Field",
+    "field_description2": "You may be deceived into thinking this is a genuine fossil site, but in actuality some idiot simply buried a bunch of artificial dinosaur parts in a 'get rich quick' scheme. Skull Man enjoyed the macabre theme regardless, and felt it fitting to have this be the arena where he and the Blue Bomber could finally meet. Shadow and Explode typed robots showcase strong performances on this field, but the skeleton-based flooring seems to have an adverse effect on attacks relying on speed. The defensive Skullmet mechas tuck themselves away at the end of long corridors, spelling doom for any who find themselves cornered. There's been rumors floating around that Magic Man's been around here often, apparently looking to \"get his dinosaurs back.\"",
+    "field_music": "sega-remix\/skull-man-mm4",
+    "field_background": "robosaur-boneyard",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 45,
+            "offset_y": 173,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 333,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 446,
+            "offset_y": 197,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 24,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 151,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 471,
+            "offset_y": 204,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "robosaur-boneyard",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

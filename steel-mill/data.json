@@ -1,0 +1,91 @@
+{
+    "field_token": "steel-mill",
+    "field_name": "Steel Mill",
+    "field_game": "MM1",
+    "field_class": "master",
+    "field_master": "fire-man",
+    "field_master2": [],
+    "field_mechas": [
+        "tackle-fire"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "flame",
+    "field_type2": "",
+    "field_multipliers": {
+        "flame": 1.5,
+        "water": 0.7,
+        "nature": 0.5
+    },
+    "field_description": "Fire Man's Favourite Field",
+    "field_description2": "This steel mill, known as the Massimo Mill, was a leading producer of steel, and while the heat is downright unbearable to most, this is where you can find Fire Man working. Obviously, the heat is also quite pleasant to any Flame-inclined robots, though don't expect any water or Nature-based attacks to fly well here. The humidity has birthed the Tackle Fires, ferocious little embers that can detrimentally melt the steel products and platforms. Magma Man also works under the Massimo conglomerate, so he'll often attend to any shipments to the steel mill.",
+    "field_music": "sega-remix\/fire-man-mm1",
+    "field_background": "steel-mill",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 378,
+            "offset_y": 169,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 83,
+            "offset_y": 138,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 54,
+            "offset_y": 222,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "steel-mill",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-04": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

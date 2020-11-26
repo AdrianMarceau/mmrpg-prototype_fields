@@ -1,0 +1,32 @@
+{
+    "field_token": "maniacal-hideaway",
+    "field_name": "Maniacal Hideaway",
+    "field_game": "MM2",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "met"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "Wily's Intro Field",
+    "field_description2": "Any self-respecting soul would shriek and cower at the mere sight of discovering this heinous hideout, but for Dr. Wily, it\u2019s his beautiful home! Fortunately for him, in fact, as after being suddenly hijacked into the Prototype, it meant a familiar base of operations was just in sight. Unfortunately, however, it means overcoming the plethora of belligerent Mechas and hazardous terrain; Dr. Wily certainly must be cursing why he made his fortresses so difficult to infiltrate! Thankfully, training seems to be ideal here, so using this area may be beneficial to gain one\u2019s bearings. Once Dr. Wily manages to find his way home, he can finally begin on what he does best; scheme!",
+    "field_music": "sega-remix\/wily-fortress-1-mm4",
+    "field_background": "maniacal-hideaway",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "maniacal-hideaway",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

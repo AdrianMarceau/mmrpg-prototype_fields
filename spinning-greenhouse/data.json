@@ -1,0 +1,102 @@
+{
+    "field_token": "spinning-greenhouse",
+    "field_name": "Spinning Greenhouse",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "top-man",
+    "field_master2": [],
+    "field_mechas": [
+        "spin-fiend"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "swift",
+    "field_type2": "",
+    "field_multipliers": {
+        "swift": 1.5,
+        "flame": 1.2,
+        "electric": 0.8
+    },
+    "field_description": "Top Man's Favourite Field",
+    "field_description2": "There's a bit of a theory in the scientific gardening community that if you were to theoretically spin plantlife at a constant and consistent axis, the plants' growth would accelerate as a result of catching the rays of sun at any and all angles. This was disproven later down the line, but Top Man still feverishly enjoyed ransacking a place that always spun, even with all of the extra plantlife in the way. The extra spin should be of no problems to Swift typed robots, though it's best not to use any strong flame attacks in such a volatile, plant-friendly place.... Anyway, since they fit Top Man's theme, Dr. Wily also provided some repurposed Spin Fiends to provide Top Man a little extra firepower and labor. Of course, it's not easy to transport such heavy Mechas in such numerous amounts, so Charge Man is usually entrusted with the duty of getting them to and fro.",
+    "field_music": "sega-remix\/top-man-mm3",
+    "field_background": "spinning-greenhouse",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 8,
+            "offset_y": 128,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 234,
+            "offset_y": 157,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 266,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 74,
+            "offset_y": 161,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "spinning-greenhouse",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,135 @@
+{
+    "field_token": "egyptian-excavation",
+    "field_name": "Egyptian Excavation",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "pharaoh-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pyre-fly"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "flame",
+    "field_type2": "",
+    "field_multipliers": {
+        "flame": 1.5,
+        "shadow": 1.2,
+        "wind": 0.8
+    },
+    "field_description": "Pharaoh Man's Favourite Field",
+    "field_description2": "An archaic temple from thousands of year past, it saddened Pharaoh Man tremendously to have to tamper with the ruins to try and destroy Mega Man. Flames from so long ago burn eternal here, yet there's still plenty of dark corners to get lost in; getting buried in sand for so many years doesn't exactly help Wind abilities blow very well, either. The Pyre Flies aid Pharaoh Man by warding off graverobbers, and by providing him with direct-feed recording to spot intruders. With so much ancient history left still undiscovered within its depths, Pharaoh Man's called on the equally-knowledgeable Sword Man to discover and decipher its remaining secrets.",
+    "field_music": "sega-remix\/pharaoh-man-mm4",
+    "field_background": "egyptian-excavation",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 50,
+            "offset_y": 192,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 252,
+            "offset_y": 224,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 482,
+            "offset_y": 198,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -87,
+            "offset_y": 160,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 165,
+            "offset_y": 159,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 114,
+            "offset_y": 206,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -128,
+            "offset_y": 172,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "egyptian-excavation",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-09": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

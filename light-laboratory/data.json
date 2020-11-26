@@ -1,0 +1,103 @@
+{
+    "field_token": "light-laboratory",
+    "field_name": "Light Laboratory",
+    "field_game": "MM3",
+    "field_class": "player",
+    "field_master": "mega-man",
+    "field_master2": [
+        "roll"
+    ],
+    "field_mechas": [
+        "met"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2,
+        "recovery": 1.5
+    },
+    "field_description": "Light's Laboratory",
+    "field_description2": "Most everyone should recognize this locale; it's Light Labs, home of the illustrious Light family! The outside build might make it seem small, but it's actually bigger on the inside; there are sub-basements dedicated to the development of new technology hidden below. Dr. Light's home is fiercely defended by the well-known hero Mega Man and his sister Roll, so the sheer idea of ever getting past such a reputable pair is downright foolhardy. But at heart, it's a home, not a battlefield; the sense of family is so strong that growth and recovery somehow seem to magnify within these walls. Light Laboratory hosts many of Mega Man's greatest friends and family beyond his sister and father, such as helpful companions like Rush, Tango, Eddie, Auto, Beat, and the dozens of Light-built Robot Masters. At the heart of it all though is Mega Man, Roll, and Dr. Light, and with their commitment to each other, it's no wonder how this family's stayed on top for so long.",
+    "field_music": "sega-remix\/special-stage-mm9",
+    "field_background": "light-laboratory",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 34,
+            "offset_y": 128,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 186,
+            "offset_y": 208,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 258,
+            "offset_y": 128,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -33,
+            "offset_y": 128,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "light-laboratory",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

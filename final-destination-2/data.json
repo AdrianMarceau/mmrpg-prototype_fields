@@ -1,0 +1,112 @@
+{
+    "field_token": "final-destination-2",
+    "field_name": "Final Destination II",
+    "field_game": "MMRPGP",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "beak"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2.5,
+        "damage": 2.5
+    },
+    "field_description": "Final Prototype Field 2 \/ 3",
+    "field_description2": "This field's entire existence in the Prototype is a mystery, as it has no real-life counterpart nor does it seem like it was ever coded in the first place. Thus, it's a contamination of the entire system, emanating the source of whatever infliction has infiltrated the Prototype. Upon succeeding against all odds and at every turn, it was only a matter of time before Mega Man, Bass, and Proto Man were put up against their own corrupted doppelgangers. These strengthened carbon copies are even more fearsome than the real deals, yet with damage multiplied on this field, there's still hope on standing on even ground.  Security Beaks are the primary mechas whose purpose is to root out any intruding malware, and as a source field in the Prototype, every single Mecha's data can be loaded and summoned on this field. The land where corruption has taken hold most, this truly is the Final Destination.",
+    "field_music": "sega-remix\/wily-fortress-1-mm9",
+    "field_background": "final-destination-2",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -12,
+            "offset_y": 186,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 320,
+            "offset_y": 157,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 140,
+            "offset_y": 157,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 124,
+            "offset_y": 237,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -116,
+            "offset_y": 157,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "final-destination-2",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,102 @@
+{
+    "field_token": "orb-city",
+    "field_name": "Orb City",
+    "field_game": "MM1",
+    "field_class": "master",
+    "field_master": "bomb-man",
+    "field_master2": [],
+    "field_mechas": [
+        "bombomb"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "explode",
+    "field_type2": "",
+    "field_multipliers": {
+        "explode": 1.5,
+        "freeze": 0.6,
+        "impact": 0.8
+    },
+    "field_description": "Bomb Man's Favourite Field",
+    "field_description2": "A holdover from a previous war, Orb City was highly controversial during its construction; somehow combining a metropolis and a fully-functioning munitions supply left a lot of the general public uneasy. An uneasiness that was completely right, of course, when Bomb Man eventually took control under the orders of Dr. Wily. The supplies offer Explode robots many an advantage, but the city's design requires Impact and Freeze robots to hold back lest the whole place falls apart. Active landmines that were never discarded can pop out of pits, dealing severe damage to the unexpected. As a landmark to any explosion enthusiast, Napalm Man tends to visit often on his vacations.",
+    "field_music": "sega-remix\/bomb-man-mm1",
+    "field_background": "orb-city",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 116,
+            "offset_y": 186,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 281,
+            "offset_y": 139,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 494,
+            "offset_y": 186,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 740,
+            "offset_y": 154,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "orb-city",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

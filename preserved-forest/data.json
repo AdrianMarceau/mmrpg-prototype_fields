@@ -1,0 +1,135 @@
+{
+    "field_token": "preserved-forest",
+    "field_name": "Preserved Forest",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "wood-man",
+    "field_master2": [],
+    "field_mechas": [
+        "batton"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "nature",
+    "field_type2": "",
+    "field_multipliers": {
+        "nature": 1.5,
+        "wind": 0.7,
+        "shield": 1.2
+    },
+    "field_description": "Wood Man's Favourite Field",
+    "field_description2": "This preserved habitat hosts the habitat of the endangered Amenhopper Chameleon, and was closed off to the general public in the hopes of sustaining the small population left of the Amenhopper. Wood Man personally volunteered to take over the forest for Dr. Wily, but his hidden agenda was to ensure that he could rightfully provide for the safety of all the animals who call the Preserved Forest their home. Bolstered by a strong natural environment, nature-based shields perform wonderfully, while any wind projectiles will at best disrupt a leaf here or there. The highly popular Battons only really monitor the plants and animals for the sake of species maintation, and going out of the way to actively destroy the bat-based Mechas isn't really worth the effort. Wood Man's formed an alliance with Snake Man to implant spying devices to elusively watch over the animals, though Snake Man's less interested in animal preservation than he is on wanting to snack on an endangered species...",
+    "field_music": "sega-remix\/wood-man-mm2",
+    "field_background": "preserved-forest",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 20,
+            "offset_y": 161,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 74,
+            "offset_y": 196,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 205,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 302,
+            "offset_y": 132,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -14,
+            "offset_y": 161,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 195,
+            "offset_y": 161,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 336,
+            "offset_y": 177,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "preserved-forest",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-09": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

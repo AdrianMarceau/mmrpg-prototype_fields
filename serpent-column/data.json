@@ -1,0 +1,113 @@
+{
+    "field_token": "serpent-column",
+    "field_name": "Serpent Column",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "snake-man",
+    "field_master2": [],
+    "field_mechas": [
+        "petit-snakey"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "nature",
+    "field_type2": "",
+    "field_multipliers": {
+        "nature": 1.5,
+        "swift": 0.7,
+        "impact": 0.9
+    },
+    "field_description": "Snake Man's Favourite Field",
+    "field_description2": "A series of smoke columns were given a serpentine makeover when Snake Man chose to make them his hideaway, complete with coils and a labyrinthine underbelly. The landscape's constantly shifting and there's many tight pathways to crawl through, evoking the spirit of Snake Man's own style of battle. His spirit carries through so much of this place, in fact, that it somehow powers up moves of his type while weakening the moves of his diametric foils, like Hard Man. Take note that the snake heads littered around the course aren't part of the decor: they're called Petit Snakeys, and they love to catch opponents off-guard with their camouflage. Snake Man's found himself at odds with Slash Man, whose ambition is to lay siege to the place and redecorate it in his own image. Naturally, he wants to call it the 'Slashy Columns'.",
+    "field_music": "sega-remix\/snake-man-mm3",
+    "field_background": "serpent-column",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 581,
+            "offset_y": 237,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 290,
+            "offset_y": 174,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 408,
+            "offset_y": 201,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 150,
+            "offset_y": 239,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 66,
+            "offset_y": 166,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "serpent-column",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,124 @@
+{
+    "field_token": "rainy-sewers",
+    "field_name": "Rainy Sewers",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "toad-man",
+    "field_master2": [],
+    "field_mechas": [
+        "robo-fishtot"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "water",
+    "field_type2": "",
+    "field_multipliers": {
+        "water": 1.5,
+        "electric": 1.3,
+        "flame": 0.5
+    },
+    "field_description": "Toad Man's Favourite Field",
+    "field_description2": "Hidden below the city of Megalopolis, the rainwater from the streets above seep into the damp sewers and continue their fall further down into the pipes. This rainwater became acidic when Toad Man threw in an acrid compound, cycling back into the city and making the water unsafe. The stormy conditions lend themselves well to electric attacks, while Flame robots can hardly get an ember started with the damp conditions. Robo Fishtots handle the maintenance of the sewage systems by 'chewing' trash and faulty pipes like kibble. The tiny bits they fail to clean, Pump Man works on to completely eradicate all the bacteria. It's not that he was necessarily asked to, but it makes him happy to make everything lemon-scented.",
+    "field_music": "sega-remix\/toad-man-mm4",
+    "field_background": "rainy-sewers",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -38,
+            "offset_y": 175,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 303,
+            "offset_y": 173,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 462,
+            "offset_y": 207,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 72,
+            "offset_y": 175,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 152,
+            "offset_y": 175,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 572,
+            "offset_y": 223,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "rainy-sewers",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,124 @@
+{
+    "field_token": "atomic-furnace",
+    "field_name": "Atomic Furnace",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "heat-man",
+    "field_master2": [],
+    "field_mechas": [
+        "telly"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "flame",
+    "field_type2": "",
+    "field_multipliers": {
+        "flame": 1.5,
+        "nature": 0.6,
+        "freeze": 0.5
+    },
+    "field_description": "Heat Man's Favourite Field",
+    "field_description2": "This hot box's purpose may have been to generate heat, but due to Heat Man's interference, now the place even flows molten lava like an ocean of flames! It's quite beneficial for any fiery attacks, but that's about it; nature and ice suffer the absolute worst of it. Traversal is difficult as most of the original platforms are completely engulfed in magma, and matters are made worse by teleporting platforms and modified Telly units. The heat may be awful to most, but to Solar Man it's ideal; he'll often use it as a place of exercise to work up a sweat.",
+    "field_music": "sega-remix\/heat-man-mm2",
+    "field_background": "atomic-furnace",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 109,
+            "offset_y": 179,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 456,
+            "offset_y": 179,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 461,
+            "offset_y": 179,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 89,
+            "offset_y": 141,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 732,
+            "offset_y": 181,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -3,
+            "offset_y": 179,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "atomic-furnace",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

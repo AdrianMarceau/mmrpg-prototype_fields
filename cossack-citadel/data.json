@@ -1,0 +1,115 @@
+{
+    "field_token": "cossack-citadel",
+    "field_name": "Cossack Citadel",
+    "field_game": "MM4",
+    "field_class": "player",
+    "field_master": "proto-man",
+    "field_master2": [
+        "rhythm"
+    ],
+    "field_mechas": [
+        "met"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2,
+        "recovery": 1.5,
+        "damage": 1.5
+    },
+    "field_description": "Cossack's Citadel",
+    "field_description2": "Located in a remote winter wilderness, this grandiose cathedral is the home of Dr. Cossack and his daughter, Kalinka; unfortunately, despite being a family residence, the version emulated in the Prototype is the variant varnished with a Wily-controlled flair. Proto Man may not have any happy feelings of nostalgia towards Cossack's Citadel, but it's his duty to defend the doctor from all threats if they wish to survive, alongside the Prototype's debug tool, Rhythm. Alongside Dr. Cossack and his Robot Masters is his daughter Kalinka, who actively ventured into the Prototype to offer background support and equipment to her father. The Cossacks may not be quite as prevalent in the public conscious like the Light family are, but that doesn't mean they're any less formidable a team.",
+    "field_music": "sega-remix\/cossack-fortress-2-mm4",
+    "field_background": "cossack-citadel",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -12,
+            "offset_y": 206,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 178,
+            "offset_y": 176,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 245,
+            "offset_y": 176,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -14,
+            "offset_y": 208,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 306,
+            "offset_y": 206,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "cossack-citadel",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

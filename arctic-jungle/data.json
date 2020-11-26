@@ -1,0 +1,80 @@
+{
+    "field_token": "arctic-jungle",
+    "field_name": "Arctic Jungle",
+    "field_game": "MM1",
+    "field_class": "master",
+    "field_master": "ice-man",
+    "field_master2": [],
+    "field_mechas": [
+        "peng"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "freeze",
+    "field_type2": "",
+    "field_multipliers": {
+        "freeze": 1.5,
+        "flame": 1.2,
+        "nature": 0.7
+    },
+    "field_description": "Ice Man's Favourite Field",
+    "field_description2": "This is no regular tundra; Ice Man had frozen a woodland nine miles south of Mega City to aid Dr. Wily's efforts. Freeze and Flame Robots showcase signs of improved performance, while Nature robots are unable to draw upon their natural abilities quite as well. Peng Mechas reside here, protected from the harsh weather due to their solar reactors and constant movement, making them quite a hindrance when traversing. The hilly landscape combined with the slick frost is actually ideal for skiing, so don't be surprised if Blizzard Man is out honing his abilities.",
+    "field_music": "sega-remix\/ice-man-mm1",
+    "field_background": "arctic-jungle",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 325,
+            "offset_y": 167,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 255,
+            "offset_y": 167,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "arctic-jungle",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-03": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

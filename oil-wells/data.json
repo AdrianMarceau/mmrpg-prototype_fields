@@ -1,0 +1,102 @@
+{
+    "field_token": "oil-wells",
+    "field_name": "Oil Wells",
+    "field_game": "MM1",
+    "field_class": "master",
+    "field_master": "oil-man",
+    "field_master2": [],
+    "field_mechas": [
+        "beetle-borg"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "earth",
+    "field_type2": "",
+    "field_multipliers": {
+        "earth": 1.5,
+        "electric": 0.9,
+        "water": 0.6
+    },
+    "field_description": "Oil Man's Favourite Field",
+    "field_description2": "Once a beautiful vista, the striking of oil led humanity to quickly file in, setting up oil rigs and drills in a mad dash for profit. The advent of advanced robotics now means Robot Masters like Oil Man can burden the risks that once threatened the lives of human workers, even if oil is ultimately falling out of favor versus the more practical solar energy. The overabundance of pollution strengthens Earth attacks, though this doesn't apply to Electric or Water attacks whatsoever. Take note of the Beetle Borg mechas; they assist in gathering soil samples for surveying, but as a result they're not well-suited for combat. Due to their age, the oil equipment has been known to sporadically break down, so Drill Man's always on speed dial when it comes to circumventing these performance issues.",
+    "field_music": "sega-remix\/tengu-man-rnf",
+    "field_background": "oil-wells",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 105,
+            "offset_y": 172,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 224,
+            "offset_y": 188,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 225,
+            "offset_y": 172,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 28,
+            "offset_y": 171,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "oil-wells",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-05": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

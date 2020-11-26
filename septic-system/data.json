@@ -1,0 +1,124 @@
+{
+    "field_token": "septic-system",
+    "field_name": "Septic System",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "shadow-man",
+    "field_master2": [],
+    "field_mechas": [
+        "ribbitron"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "shadow",
+    "field_type2": "",
+    "field_multipliers": {
+        "shadow": 1.5,
+        "nature": 0.8,
+        "flame": 0.6
+    },
+    "field_description": "Shadow Man's Favourite Field",
+    "field_description2": "It certainly may not smell pleasant, but this dingy sewer system located beneath Akihara Town provides excellent cover for a ninja warrior like Shadow Man. The opportunity for cover anywhere makes Shadow attacks especially more shifty, and the raw sewage helps reduce the power of Nature and Flame abilities. Lying low amongst the trash are the Ribbitrons, and they delight on hopping out and making the septic system an even less delightful time! The dark, catacombs-esque ambience has also always been a favorite of Skull Man's, but he's always been less enthralled about Shadow Man and the Ribbitron surprising him from dark corners whenever he shows up.",
+    "field_music": "sega-remix\/shadow-man-mm3",
+    "field_background": "septic-system",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -8,
+            "offset_y": 170,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 160,
+            "offset_y": 167,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 280,
+            "offset_y": 191,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 276,
+            "offset_y": 191,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 146,
+            "offset_y": 171,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -10,
+            "offset_y": 159,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "septic-system",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,124 @@
+{
+    "field_token": "space-simulator",
+    "field_name": "Space Simulator",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "ring-man",
+    "field_master2": [],
+    "field_mechas": [
+        "ring-ring"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "space",
+    "field_type2": "",
+    "field_multipliers": {
+        "space": 1.5,
+        "wind": 0.6,
+        "earth": 0.5
+    },
+    "field_description": "Ring Man's Favourite Field",
+    "field_description2": "Could it be that somehow, there's some sort of weird pocket dimension on Earth where space is feasibly within walking distance? As with any questions using the word 'somehow', the answer is a resounding no. What's going on here is that space is being artificially recreated in appearance only -- there's plenty of gravity and oxygen to be had here. The atmosphere still powers up Space-cored robots though, with it logically weakening Wind and Earth-core robots as well. When Ring Man had control of the place, he employed the Ring-Rings to further emphasize the illusion. With all of these elements in place, even robots who have been up in space can hardly tell the difference. Star Man, for example, has been routinely visiting and still hasn't figured it out.",
+    "field_music": "sega-remix\/ring-man-mm4",
+    "field_background": "space-simulator",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -50,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 94,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 316,
+            "offset_y": 214,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 135,
+            "offset_y": 226,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -124,
+            "offset_y": 212,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 435,
+            "offset_y": 162,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "space-simulator",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

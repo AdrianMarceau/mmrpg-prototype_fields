@@ -1,0 +1,113 @@
+{
+    "field_token": "power-plant",
+    "field_name": "Power Plant",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "spark-man",
+    "field_master2": [],
+    "field_mechas": [
+        "elec-n"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "electric",
+    "field_type2": "",
+    "field_multipliers": {
+        "electric": 1.5,
+        "swift": 1.2,
+        "wind": 0.8
+    },
+    "field_description": "Spark Man's Favourite Field",
+    "field_description2": "This massive power plant provides the electricity for more than a million homes, which is why panic quickly spread when Spark Man's actions led to a widespread blackout. The plant itself continued to run -- too well, in fact, as what were conductors, trash disposals, and hydraulic lifts quickly became glorified death traps. This increased static productivity does affect Electric and Swift robots positively, however, and that's not all when it comes to increased performance. The Elec'n, normally mere electrical substations, can plug into the plant's electrical supply to deliver lethal shocks. Maintaining such a large resource has proven difficult for the absent minded Spark Man, so the more attentive Fuse Man has substituted in from time to time.",
+    "field_music": "sega-remix\/spark-man-mm3",
+    "field_background": "power-plant",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 44,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 183,
+            "offset_y": 188,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 296,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 198,
+            "offset_y": 187,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 32,
+            "offset_y": 188,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "power-plant",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

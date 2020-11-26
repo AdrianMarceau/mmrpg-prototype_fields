@@ -1,0 +1,113 @@
+{
+    "field_token": "magnetic-generator",
+    "field_name": "Magnetic Generator",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "magnet-man",
+    "field_master2": [],
+    "field_mechas": [
+        "mag-fly"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "missile",
+    "field_type2": "",
+    "field_multipliers": {
+        "missile": 1.5,
+        "electric": 1.4,
+        "explode": 0.6
+    },
+    "field_description": "Magnet Man's Favourite Field",
+    "field_description2": "Designed as a regular generator facility early on in its lifetime, Magnet Man rerouted the polarity of the generator, intensifying its magnetic pull tremendously. One will notice the high efficiency of Missile and Electric cores as a result, and this is certainly no coincidence; it gave Magnet Man a home field advantage in his fight against Mega Man. The themed Mag Flies have their own pull as well, a pull that becomes rather dangerous around bottomless pits -- though any experienced tactician would figure out using this to their advantage in traversing the Magnetic Generator. Magnet Man's currently working with Dive Man on designing a torpedo with magnetic attributes in the same vein as the Magnet Missile, but so far all the torpedoes come back to strike them instead...",
+    "field_music": "sega-remix\/magnet-man-mm3",
+    "field_background": "magnetic-generator",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -8,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 122,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 315,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 224,
+            "offset_y": 156,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 62,
+            "offset_y": 183,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "magnetic-generator",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

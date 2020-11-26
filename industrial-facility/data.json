@@ -1,0 +1,113 @@
+{
+    "field_token": "industrial-facility",
+    "field_name": "Industrial Facility",
+    "field_game": "MM2",
+    "field_class": "master",
+    "field_master": "metal-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pierrobot"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "cutter",
+    "field_type2": "",
+    "field_multipliers": {
+        "cutter": 1.5,
+        "electric": 1.2,
+        "missile": 0.7
+    },
+    "field_description": "Metal Man's Favourite Field",
+    "field_description2": "The work done at this industrial facility is largely automated by its cogs and conveyor belts, but a lack of human presence meant that it was quite easily taken over by Metal Man and his army of Mechas. All these factors mean that Cutter and Electrical attacks have a much stronger influence here than normal, while missiles tend to falter often. The cold industrialized environment is definitely disheartening to those who spend long hours here, but funnily enough Wily's hostile takeover did have a positive; the lively Pierrobots, dancing on their mobile gears, adds a nice splash of color to the place! Cut Man tries to sneak in often to spy on his old nemesis, Metal Man, but his oversized headgear doesn't really lend itself well to stealth....",
+    "field_music": "sega-remix\/metal-man-mm2",
+    "field_background": "industrial-facility",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 268,
+            "offset_y": 145,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 259,
+            "offset_y": 196,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -80,
+            "offset_y": 191,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 82,
+            "offset_y": 155,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 724,
+            "offset_y": 171,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "industrial-facility",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

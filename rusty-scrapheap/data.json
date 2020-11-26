@@ -1,0 +1,124 @@
+{
+    "field_token": "rusty-scrapheap",
+    "field_name": "Rusty Scrapheap",
+    "field_game": "MM4",
+    "field_class": "master",
+    "field_master": "dust-man",
+    "field_master2": [],
+    "field_mechas": [
+        "lady-blader"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "wind",
+    "field_type2": "",
+    "field_multipliers": {
+        "wind": 1.5,
+        "electric": 1.1,
+        "nature": 0.7
+    },
+    "field_description": "Dust Man's Favourite Field",
+    "field_description2": "The final resting place for rejected and scrapped parts, this unkempt site is most notable for when Dust Man was programmed to take it over and crush Mega Man at all costs. Since the junk gets compacted into cubes by automated pressers, it gave Dust Man plenty to work with in regards to his Dust Crusher. Hygienics are substantially below-average here however, so likewise Nature abilities end up falling below average as well. The Ladybug series of Bladers, known for their versatile aviation, have been assigned to the scrapheap, and can easily be spotted amongst the garbage by their strong primary color scheme. Due to being able to switch between propeller-based and jet-based flight, the Lady Bladers have become of great interest to Gyro Man.",
+    "field_music": "sega-remix\/dust-man-mm4",
+    "field_background": "rusty-scrapheap",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 31,
+            "offset_y": 153,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 354,
+            "offset_y": 153,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 456,
+            "offset_y": 177,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 184,
+            "offset_y": 153,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 780,
+            "offset_y": 153,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 65,
+            "offset_y": 163,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "rusty-scrapheap",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

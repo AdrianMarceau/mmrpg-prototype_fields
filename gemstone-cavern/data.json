@@ -1,0 +1,32 @@
+{
+    "field_token": "gemstone-cavern",
+    "field_name": "Gemstone Cavern",
+    "field_game": "MM9",
+    "field_class": "master",
+    "field_master": "jewel-man",
+    "field_master2": [],
+    "field_mechas": [],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "crystal",
+    "field_type2": "",
+    "field_multipliers": {
+        "crystal": 1.5,
+        "electric": 0.8,
+        "freeze": 0.5
+    },
+    "field_description": "Jewel Man's Favourite Field",
+    "field_description2": "",
+    "field_music": "sega-remix\/jewel-man-mm9",
+    "field_background": "gemstone-cavern",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "gemstone-cavern",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 0,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

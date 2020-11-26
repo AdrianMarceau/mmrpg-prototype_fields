@@ -1,0 +1,32 @@
+{
+    "field_token": "prototype-complete",
+    "field_name": "Bonus Field",
+    "field_game": "MMRPGP",
+    "field_class": "bonus",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "[\"beak\",\"beetle-borg\",\"tackle-fire\",\"flea\",\"flutter-fly\",\"picket-man\",\"peng\",\"spine\",\"batton\",\"crazy"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "Prototype Bonus Stage",
+    "field_description2": "Like Final Destination, this field was never programmed into the actual system; unlike Final Destination, however, it's less a source of evil and more of a serendipitous accident? The opponents are completely random, ranging from past enemies to even foes you may not have encountered yet! The multipliers are completely random too, ranging from small boosts to multiplying your attacks by 1000%! It's the perfect battle simulator to iron out some extra training towards the end of your journey, and to test the capabilities of the Prototype! So after a long and hard-fought quest, isn't this the ideal way to wind down and celebrate?",
+    "field_music": "",
+    "field_background": "prototype-complete",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "prototype-complete",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}

@@ -1,0 +1,113 @@
+{
+    "field_token": "rocky-plateau",
+    "field_name": "Rocky Plateau",
+    "field_game": "MM3",
+    "field_class": "master",
+    "field_master": "hard-man",
+    "field_master2": [],
+    "field_mechas": [
+        "monking-r"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "impact",
+    "field_type2": "",
+    "field_multipliers": {
+        "impact": 1.5,
+        "cutter": 0.8,
+        "shadow": 0.6
+    },
+    "field_description": "Hard Man's Favourite Field",
+    "field_description2": "This was a mining plateau located near Mt. Shasta, and it acted as Hard Man's base of operations in his wait to inevitably face the Blue Bomber in battle. The rigidity of the rocks provide plenty of ammunition for Impact-based robots, and as a nice bonus does a decent job from protecting from all Cutter and Shadow typed projectiles too. Hanging off the ceilings of the caves down below are the Monkings, and it's quite easy to find yourself being swarmed by dozens of them at once. Beyond the mechas, Knight Man's been known to hang around the area as well. Since him and Hard Man share a similar code of honor, they've gotten to be close compatriots!",
+    "field_music": "sega-remix\/hard-man-mm3",
+    "field_background": "rocky-plateau",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 64,
+            "offset_y": 153,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 184,
+            "offset_y": 186,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 352,
+            "offset_y": 154,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 262,
+            "offset_y": 202,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 40,
+            "offset_y": 202,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "rocky-plateau",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1,
+    "field_music_link": []
+}
