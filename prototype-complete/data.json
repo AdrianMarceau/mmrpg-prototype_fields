@@ -5,9 +5,7 @@
     "field_class": "bonus",
     "field_master": "",
     "field_master2": [],
-    "field_mechas": [
-        "[\"beak\",\"beetle-borg\",\"tackle-fire\",\"flea\",\"flutter-fly\",\"picket-man\",\"peng\",\"spine\",\"batton\",\"crazy"
-    ],
+    "field_mechas": [],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
@@ -27,6 +25,5 @@
     "field_foreground_attachments": [],
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
