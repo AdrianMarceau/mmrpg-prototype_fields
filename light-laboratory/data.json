@@ -50,7 +50,7 @@
         "mecha-03": {
             "class": "robot",
             "size": 40,
-            "offset_x": 258,
+            "offset_x": 220,
             "offset_y": 128,
             "robot_token": "met",
             "robot_frame": [
@@ -98,6 +98,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
