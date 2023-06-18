@@ -20,7 +20,7 @@
     },
     "field_description": "Time Man's Favourite Field",
     "field_description2": "This peculiar fortress was suddenly bombarded with a high fluctuation of tachyon energy one day, quickly gathering the intrigue and interest of those in the time examination community, like Time Man and the Chronos Time-Space Institute. Obviously, Time-cored projectiles flow excellently here, even if the same cannot be said for Impact and Swift typed attacks. Flutter Flies feed off the temporal energy, and can emit highly irradiated tachyon blasts from their eyes. Flash Man regularly sneaks in to siphon energy for his own means, likely to gather surplus energy for his own Photon Collider field.",
-    "field_music": "sega-remix\/time-man-mmpu",
+    "field_music": "mmpu-ost\/time-man",
     "field_background": "clock-citadel",
     "field_background_frame": [],
     "field_background_attachments": {
@@ -108,6 +108,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
