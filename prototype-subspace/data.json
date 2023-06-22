@@ -1,0 +1,29 @@
+{
+    "field_token": "prototype-subspace",
+    "field_name": "Prototype Subspace",
+    "field_game": "MMRPG",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "Prototype Deep Record",
+    "field_description2": "This critical area of the prototype's memory is normally inaccessible and as such remains largely unexplored.  How our heroes end up here is anyone's business.  Prototype Subspace is said to contain the deepest records of all robot history in a complex and indecipherable large language model responsible for much of the prototype's simulative functionality.  It would be terrible if that power fell into the wrong hands.",
+    "field_music": "sega-remix\/duo-mm8",
+    "field_background": "prototype-subspace",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "prototype-subspace",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
