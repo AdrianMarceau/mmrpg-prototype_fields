@@ -8,6 +8,7 @@
         "disco"
     ],
     "field_mechas": [
+        "skeleton-joe",
         "met"
     ],
     "field_image": "",
@@ -98,6 +99,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
