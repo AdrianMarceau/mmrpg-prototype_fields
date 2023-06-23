@@ -98,11 +98,12 @@
             "final-destination-3"
         ]
     },
-    "MMRPG\/Bonus": {
+    "MMRPG\/Other": {
         "group_class": "field",
-        "group_token": "MMRPG\/Bonus",
+        "group_token": "MMRPG\/Other",
         "group_order": 8,
         "group_child_tokens": [
+            "prototype-subspace",
             "prototype-complete"
         ]
     },
