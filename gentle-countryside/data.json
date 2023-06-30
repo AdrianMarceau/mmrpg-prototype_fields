@@ -18,7 +18,7 @@
     },
     "field_description": "Light's Intro Field",
     "field_description2": "Filled to the brim with picturesque, luscious scenery, the Gentle Countryside was the first field programmed into the Prototype and is the location in which Dr. Light first regains his consciousness after the inciting incident of our story. Within the distance, protruding mountains suggest the expanse of an ever-broadening horizon. Nothing seems to be negatively affected here, and as such it's the ideal place for a training session. There are no Robot Masters who have made this place their domain, but as a result there's a bit of a rabid Met problem. While houses may fill the landscape, there's not a soul here to be found, suggesting an unnerving silence to a place of such life...",
-    "field_music": "sega-remix\/wily-fortress-3-mm3",
+    "field_music": "sega-remix\/opening-stage-mm7",
     "field_background": "gentle-countryside",
     "field_background_frame": [],
     "field_background_attachments": [],
@@ -72,6 +72,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
