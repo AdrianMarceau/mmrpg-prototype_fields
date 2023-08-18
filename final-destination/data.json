@@ -17,7 +17,7 @@
         "experience": 2,
         "recovery": 2
     },
-    "field_description": "Final Prototype Field 1 \/ 3",
+    "field_description": "",
     "field_description2": "This field's entire existence in the Prototype is a mystery, as it has no real-life counterpart nor does it seem like it was ever coded in the first place. Thus, it's a contamination of the entire system, emanating the source of whatever infliction has infiltrated the Prototype. The infamous Mega Man Killers have been resurrected from beyond the grave to defend the first layer, making it nigh-impossible to break through. Luckily, experience and health recovery is significantly multiplied, which when utilized right could hypothetically provide the opportunity for triumph against these bulwarks of strength. Security Beaks are the primary mechas whose purpose is to root out any intruding malware, and as a source field in the Prototype, every single Mecha's data can be loaded and summoned on this field. The land where corruption has taken hold most, this truly is the Final Destination.",
     "field_music": "sega-remix\/special-stage-mm9",
     "field_background": "final-destination",
@@ -27,7 +27,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": -12,
-            "offset_y": 186,
+            "offset_y": 166,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -37,8 +37,8 @@
         "mecha-02": {
             "class": "robot",
             "size": 40,
-            "offset_x": 320,
-            "offset_y": 157,
+            "offset_x": 283,
+            "offset_y": 150,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -48,8 +48,8 @@
         "mecha-03": {
             "class": "robot",
             "size": 40,
-            "offset_x": 140,
-            "offset_y": 157,
+            "offset_x": 200,
+            "offset_y": 166,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -60,7 +60,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": 124,
-            "offset_y": 237,
+            "offset_y": 198,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -70,8 +70,8 @@
         "mecha-05": {
             "class": "robot",
             "size": 40,
-            "offset_x": -116,
-            "offset_y": 157,
+            "offset_x": -39,
+            "offset_y": 166,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -107,6 +107,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
