@@ -17,7 +17,7 @@
         "experience": 2.5,
         "damage": 2.5
     },
-    "field_description": "Final Prototype Field 2 \/ 3",
+    "field_description": "",
     "field_description2": "This field's entire existence in the Prototype is a mystery, as it has no real-life counterpart nor does it seem like it was ever coded in the first place. Thus, it's a contamination of the entire system, emanating the source of whatever infliction has infiltrated the Prototype. Upon succeeding against all odds and at every turn, it was only a matter of time before Mega Man, Bass, and Proto Man were put up against their own corrupted doppelgangers. These strengthened carbon copies are even more fearsome than the real deals, yet with damage multiplied on this field, there's still hope on standing on even ground.  Security Beaks are the primary mechas whose purpose is to root out any intruding malware, and as a source field in the Prototype, every single Mecha's data can be loaded and summoned on this field. The land where corruption has taken hold most, this truly is the Final Destination.",
     "field_music": "sega-remix\/wily-fortress-1-mm9",
     "field_background": "final-destination-2",
@@ -26,8 +26,8 @@
         "mecha-01": {
             "class": "robot",
             "size": 40,
-            "offset_x": -12,
-            "offset_y": 186,
+            "offset_x": -56,
+            "offset_y": 210,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -37,8 +37,8 @@
         "mecha-02": {
             "class": "robot",
             "size": 40,
-            "offset_x": 320,
-            "offset_y": 157,
+            "offset_x": 322,
+            "offset_y": 146,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -49,7 +49,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": 140,
-            "offset_y": 157,
+            "offset_y": 146,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -60,7 +60,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": 124,
-            "offset_y": 237,
+            "offset_y": 178,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -71,7 +71,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": -116,
-            "offset_y": 157,
+            "offset_y": 146,
             "robot_token": "met",
             "robot_frame": [
                 0
@@ -107,6 +107,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
