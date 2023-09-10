@@ -1,0 +1,33 @@
+{
+    "field_token": "robot-museum",
+    "field_name": "Robot Museum",
+    "field_game": "MMRPG",
+    "field_class": "event",
+    "field_master": "doc-robot",
+    "field_master2": [],
+    "field_mechas": [
+        "sniper-joe",
+        "skeleton-joe",
+        "crystal-joe"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 2
+    },
+    "field_description": "Doc Robot Stage",
+    "field_description2": "The Robot Museum, a tribute to Dr. Light's ingenious robotic designs, showcases the iconic Robot Masters from Mega Man's past adventures. As a testament to the ever-evolving battle between Dr. Light and Dr. Wily, the museum became the focal point of Wily's mischief when he breached its walls to resurrect the formidable Guts Man. This hallowed hall is not just a place of remembrance, but also a reminder of the unending rivalry and the legacy of Mega Man.  In the world of the Prototype, the Robot Museum has taken on a new guardian in the form of Doc Robot. This multifaceted machine, capable of mimicking the abilities of other Robot Masters, has claimed the museum as his domain. With a deep-seated respect for the legacy of Robot Masters, Doc Robot sees himself as the protector of their memories and the curator of their histories. His presence transforms the museum from a mere showcase to a living testament, where the past meets the present in a dynamic dance of technology and tribute.",
+    "field_music": "sega-remix\/boss-theme-mm3",
+    "field_background": "robot-museum",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "robot-museum",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
