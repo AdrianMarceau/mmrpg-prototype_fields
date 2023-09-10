@@ -23,7 +23,41 @@
     "field_music": "sega-remix\/boss-theme-mm3",
     "field_background": "robot-museum",
     "field_background_frame": [],
-    "field_background_attachments": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 180,
+            "offset_y": 14,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 250,
+            "offset_y": 49,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 94,
+            "offset_y": 17,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
     "field_foreground": "robot-museum",
     "field_foreground_frame": [],
     "field_foreground_attachments": [],
