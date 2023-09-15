@@ -25,7 +25,10 @@
         "group_order": 2,
         "group_child_tokens": [
             "prototype-subspace",
-            "robot-museum"
+            "robot-museum",
+            "hunter-compound",
+            "royal-palace",
+            "genesis-tower"
         ]
     },
     "MM01\/Master": {
