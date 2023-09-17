@@ -22,7 +22,52 @@
     "field_music": "sega-remix\/kings-fortress-rnf",
     "field_background": "royal-palace",
     "field_background_frame": [],
-    "field_background_attachments": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 137,
+            "offset_y": 197,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 137,
+            "offset_y": 197,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 6,
+            "offset_y": 125,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 6,
+            "offset_y": 125,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
     "field_foreground": "royal-palace",
     "field_foreground_frame": [],
     "field_foreground_attachments": [],
