@@ -1,27 +1,32 @@
 {
     "field_token": "royal-palace",
     "field_name": "Royal Palace",
-    "field_game": "MMRPG",
+    "field_game": "RnF",
     "field_class": "event",
     "field_master": "king",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "pyre-fly",
+        "flea"
+    ],
     "field_image": "",
-    "field_image_editor": "",
+    "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
     "field_type": "",
     "field_type2": "",
-    "field_multipliers": [],
-    "field_description": "",
-    "field_description2": "",
-    "field_music": "",
+    "field_multipliers": {
+        "experience": 3
+    },
+    "field_description": "King's Home Base",
+    "field_description2": "Originally built as one of Dr. Wily's Castles, this fortress was liberated by and now belongs to the powerful robot name King.  Despite the long and arduous battle to free King's mind and release him from Dr. Wily's control, it seems that our friend has been compromised once again and now sits upon his throne waiting for a rematch we our heroes.  The Royal Palace (also known as King's Castle) has been fully restored to it's pre-destruction glory here in The Prototype and consists of many floors each more perilous than the last, but the throne room at the very top is the lion's den where our inevitable fight will take place.  Decked-out with silky red curtains and chevrons, s gold-plated throne, a giant overhead computer, and a two pairs of capsules containing robot bodyguards waiting to jump into action at a moment's notice, King is not playing games with his new setup.  The purple brick walls and lavender pillars might confuse one into thinking this place was inviting, but anyone foolish enough to venture here will soon learn their mistake.",
+    "field_music": "sega-remix\/kings-fortress-rnf",
     "field_background": "royal-palace",
     "field_background_frame": [],
     "field_background_attachments": [],
     "field_foreground": "royal-palace",
     "field_foreground_frame": [],
     "field_foreground_attachments": [],
-    "field_flag_hidden": 1,
-    "field_flag_complete": 0,
-    "field_flag_published": 0
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
 }
