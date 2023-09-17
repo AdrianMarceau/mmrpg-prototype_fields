@@ -1,7 +1,7 @@
 {
     "field_token": "robot-museum",
     "field_name": "Robot Museum",
-    "field_game": "MMRPG",
+    "field_game": "MM7",
     "field_class": "event",
     "field_master": "doc-robot",
     "field_master2": [],
