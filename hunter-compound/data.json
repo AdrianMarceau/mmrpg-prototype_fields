@@ -17,7 +17,8 @@
     "field_multipliers": {
         "shield": 1.2,
         "explode": 1.2,
-        "cutter": 1.2
+        "cutter": 1.2,
+        "experience": 2
     },
     "field_description": "Mega Man Killer Headquarters",
     "field_description2": "The Hunter Compound is an amalgamation of Enker, Punk, and Ballade's customized secret fortresses fused into one.  Each of the three hunters, infamously referred to as the \"Mega Man Killers\", keeps watch over the base in shifts to ensure no intruders interfere with their planning.  The terrain represented on this field is diverse, but the strategy is largely similar regardless of where you fight - don't die.",
