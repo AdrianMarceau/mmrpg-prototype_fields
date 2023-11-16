@@ -19,16 +19,12 @@
             "cossack-citadel"
         ]
     },
-    "MMRPG\/Events": {
+    "MMRPG\/Subspace": {
         "group_class": "field",
-        "group_token": "MMRPG\/Events",
+        "group_token": "MMRPG\/Subspace",
         "group_order": 2,
         "group_child_tokens": [
-            "prototype-subspace",
-            "robot-museum",
-            "hunter-compound",
-            "royal-palace",
-            "genesis-tower"
+            "prototype-subspace"
         ]
     },
     "MM01\/Master": {
@@ -100,10 +96,21 @@
             "gemstone-cavern"
         ]
     },
+    "MMRPG\/Events": {
+        "group_class": "field",
+        "group_token": "MMRPG\/Events",
+        "group_order": 8,
+        "group_child_tokens": [
+            "robot-museum",
+            "hunter-compound",
+            "royal-palace",
+            "genesis-tower"
+        ]
+    },
     "MMRPG\/Finale": {
         "group_class": "field",
         "group_token": "MMRPG\/Finale",
-        "group_order": 8,
+        "group_order": 9,
         "group_child_tokens": [
             "final-destination",
             "final-destination-2",
@@ -113,7 +120,7 @@
     "MMRPG\/Other": {
         "group_class": "field",
         "group_token": "MMRPG\/Other",
-        "group_order": 9,
+        "group_order": 10,
         "group_child_tokens": [
             "prototype-complete"
         ]
@@ -121,7 +128,7 @@
     "Hidden": {
         "group_class": "field",
         "group_token": "Hidden",
-        "group_order": 10,
+        "group_order": 11,
         "group_child_tokens": [
             "intro-field"
         ]
