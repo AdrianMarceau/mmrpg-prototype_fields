@@ -50,7 +50,7 @@
             "class": "robot",
             "size": 40,
             "offset_x": 94,
-            "offset_y": 17,
+            "offset_y": 14,
             "robot_token": "met",
             "robot_frame": [
                 0
