@@ -19,7 +19,7 @@
         "time": 0.8
     },
     "field_description": "Cut Man's Favourite Field",
-    "field_description2": "Historians may recognize this location as the battlefield where Mega Man and Cut Man's battle took place, a lumberjack warehouse filled with ladders and construction blocks.  Cutter and Missile type abilities appear to do well on this field, but Wind and Swift type are at a great disadvantage.  Beware of the Flea robots, however, as they are very fast and deal long-range Impact type damage to your team. It is said that Metal Man occasionally visits this place to spy on Cut Man, but these reports are unconfirmed and largely speculation. Or at least, according to Metal Man.",
+    "field_description2": "Historians may recognize this location as the battlefield where Mega Man and Cut Man's battle took place, a lumberjack warehouse filled with ladders and construction blocks. On a field like this, Cutter-typed attacks will have the advantage.  Beware of the Flea robots, however, as they are very fast and deal long-range Impact type damage to your team. It is said that Metal Man occasionally visits this place to spy on Cut Man, but these reports are unconfirmed and largely speculation. Or at least, according to Metal Man.",
     "field_music": "sega-remix\/cut-man-mm1",
     "field_background": "abandoned-warehouse",
     "field_background_frame": [],
@@ -97,6 +97,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
