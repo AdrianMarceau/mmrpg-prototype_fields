@@ -1,0 +1,113 @@
+{
+    "field_token": "satellite-deck",
+    "field_name": "Satellite Deck",
+    "field_game": "MM5",
+    "field_class": "master",
+    "field_master": "star-man",
+    "field_master2": [],
+    "field_mechas": [
+        "novamite",
+        "shururun"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "space",
+    "field_type2": "",
+    "field_multipliers": {
+        "space": 1.5,
+        "missile": 1.2,
+        "swift": 0.8
+    },
+    "field_description": "Star Man's Favorite Stage",
+    "field_description2": "Hovering just beyond Earth\u2019s grasp, the Satellite Deck is a forgotten platform once used for monitoring planetary data, now overtaken by cosmic decay and disrepair. Star Man claims dominion over this artificial perch, turning the satellite\u2019s crumbling infrastructure into a stellar stronghold. With gravity warped and star-lit nebulae spilling across the horizon, even the simplest jump can become an otherworldly gamble. Navigation requires grace, not brute force, as the floating debris demands calculated movement. The backdrop offers a breathtaking view of Earth\u2019s curve\u2014 though few foes ever get the chance to admire it for long. Star Man\u2019s sanctuary is a beautiful, deadly lullaby in the void.",
+    "field_music": "sega-remix\/star-man-mm5",
+    "field_background": "satellite-deck",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 30,
+            "offset_y": 124,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 400,
+            "offset_y": 203,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 20,
+            "offset_y": 66,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 210,
+            "offset_y": 14,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 380,
+            "offset_y": 14,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "satellite-deck",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
