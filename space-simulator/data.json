@@ -6,7 +6,8 @@
     "field_master": "ring-man",
     "field_master2": [],
     "field_mechas": [
-        "ring-ring"
+        "ring-ring",
+        "adamski"
     ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
@@ -119,6 +120,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
