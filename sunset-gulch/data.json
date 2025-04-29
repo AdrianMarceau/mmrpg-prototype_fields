@@ -1,0 +1,113 @@
+{
+    "field_token": "sunset-gulch",
+    "field_name": "Sunset Gulch",
+    "field_game": "MM6",
+    "field_class": "master",
+    "field_master": "tomahawk-man",
+    "field_master2": [],
+    "field_mechas": [
+        "colton",
+        "merserker"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "earth",
+    "field_type2": "",
+    "field_multipliers": {
+        "earth": 1.5,
+        "cutter": 1.4,
+        "nature": 1.2
+    },
+    "field_description": "Tomahawk Man's Favorite Stage",
+    "field_description2": "Bathed in the smoldering hues of a sinking sun, Sunset Gulch is a rugged canyon where jagged cliffs pierce the sky and cacti cling stubbornly to the old dust-choked earth. Once a proud outpost of the old frontier, Tomahawk Man stands watch over this forgotten land, ready to challenge any who dare cross his domain. Of course, you also have the sharp-eyed Coltons, serving as both guardians and gunslingers of these cliffs. With the horizon ablaze and the air heavy with the scent of gunpowder and sage, make sure you're still standing after the duel is over and the dust settles!",
+    "field_music": "sega-remix\/tomahawk-man-mm6",
+    "field_background": "sunset-gulch",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -100,
+            "offset_y": 160,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 10,
+            "offset_y": 128,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 500,
+            "offset_y": 97,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 120,
+            "offset_y": 160,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 483,
+            "offset_y": 192,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "sunset-gulch",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-06": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
