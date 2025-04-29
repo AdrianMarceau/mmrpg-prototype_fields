@@ -6,7 +6,8 @@
     "field_master": "metal-man",
     "field_master2": [],
     "field_mechas": [
-        "pierrobot"
+        "pierrobot",
+        "drill-mole"
     ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
@@ -108,6 +109,5 @@
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
