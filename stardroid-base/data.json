@@ -1,0 +1,77 @@
+{
+    "field_token": "stardroid-base",
+    "field_name": "Stardroid Base",
+    "field_game": "MMV",
+    "field_class": "event",
+    "field_master": "",
+    "field_master2": [],
+    "field_mechas": [
+        "malmet"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "",
+    "field_type2": "",
+    "field_multipliers": {
+        "experience": 9.9
+    },
+    "field_description": "Stardroid Stage",
+    "field_description2": "Once a drifting husk of cosmic rock, this lonely planetoid was snatched from obscurity and carved into a foreboding fortress by the Stardroids, whose designs stretch beyond Earth\u2019s feeble comprehension. Now bristling with alien alloys and mysterious industrial plating, its jagged terrain bears no resemblance to the natural world. Hovering ominously in the sky, the glinting curve of Earth is now only a fading memory - so small from this angle, you forget all that's on stake on that planet. Sharing the starscape are two of Dr. Wily's greatest achievements in star-trekking technology - the Wily Battleship, and Wily Star - both docked in low orbit and waiting for their call to war. No natural life has ever stepped foot here\u2014and none ever should. But if you hope to challenge the Stardroids, you\u2019ll need to plant your boots firmly and keep your optics sharp. The stars have never looked so hostile.",
+    "field_music": "sega-remix\/duo-mm8",
+    "field_background": "stardroid-base",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -10,
+            "offset_y": 55,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 0,
+            "offset_y": 60,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "stardroid-base",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-03": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
