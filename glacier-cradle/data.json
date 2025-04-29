@@ -1,0 +1,124 @@
+{
+    "field_token": "glacier-cradle",
+    "field_name": "Glacier Cradle",
+    "field_game": "MM10",
+    "field_class": "master",
+    "field_master": "chill-man",
+    "field_master2": [],
+    "field_mechas": [
+        "frosty-throwman",
+        "tel-tel"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "freeze",
+    "field_type2": "",
+    "field_multipliers": {
+        "freeze": 1.5,
+        "crystal": 1.3,
+        "cutter": 1.2
+    },
+    "field_description": "Chill Man's Favorite Field",
+    "field_description2": "Nestled between towering, frostbitten peaks and buried beneath layers of glacial sediment lies the serene yet perilous Glacier Cradle. A natural formation reinforced with refrigerated tech, this cavernous vault serves as Chill Man\u2019s personal retreat\u2014and his battlefield. Icicles shimmer like chandeliers above, and frigid mists curl along the floor, where snowball-headed Frosty Throwmen keep a silent, watchful guard. Chill Man often uses this site to capture crystalline stills of his frozen domain, but intruders won\u2019t find much time to admire the scenery. Freeze-core bots thrive in this climate, but even Crystal and Cutter types can find their edge in the brittle silence. Just mind your step\u2014one slip, and you might become part of the scenery yourself.",
+    "field_music": "sega-remix\/chill-man-mm10",
+    "field_background": "glacier-cradle",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 80,
+            "offset_y": 35,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 150,
+            "offset_y": 12,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 80,
+            "offset_y": 140,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 260,
+            "offset_y": 155,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 120,
+            "offset_y": 172,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -50,
+            "offset_y": 170,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "glacier-cradle",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
