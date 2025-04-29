@@ -92,8 +92,11 @@
         "group_token": "MM99\/Master",
         "group_order": 7,
         "group_child_tokens": [
+            "satellite-deck",
+            "sunset-gulch",
             "crystal-catacombs",
-            "gemstone-cavern"
+            "gemstone-cavern",
+            "glacier-cradle"
         ]
     },
     "MMRPG\/Events": {
@@ -104,7 +107,8 @@
             "robot-museum",
             "hunter-compound",
             "royal-palace",
-            "genesis-tower"
+            "genesis-tower",
+            "stardroid-base"
         ]
     },
     "MMRPG\/Finale": {
