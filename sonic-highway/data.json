@@ -1,0 +1,90 @@
+{
+    "field_token": "sonic-highway",
+    "field_name": "Sonic Highway",
+    "field_game": "MM10",
+    "field_class": "master",
+    "field_master": "nitro-man",
+    "field_master2": [],
+    "field_mechas": [
+        "robo-transport",
+        "cannon-roader"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "swift",
+    "field_type2": "",
+    "field_multipliers": {
+        "swift": 1.5,
+        "wind": 1.2,
+        "time": 0.7
+    },
+    "field_description": "Nitro Man's Favorite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/nitro-man-mm10",
+    "field_background": "sonic-highway",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 130,
+            "offset_y": 137,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 270,
+            "offset_y": 137,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 370,
+            "offset_y": 137,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 480,
+            "offset_y": 137,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 600,
+            "offset_y": 137,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "sonic-highway",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
