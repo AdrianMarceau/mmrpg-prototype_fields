@@ -1,0 +1,30 @@
+{
+    "field_token": "haunted-mansion",
+    "field_name": "Haunted Mansion",
+    "field_game": "MM7",
+    "field_class": "master",
+    "field_master": "shade-man",
+    "field_master2": [],
+    "field_mechas": [
+        "astro-zombieg",
+        "batton"
+    ],
+    "field_image": "",
+    "field_image_editor": "",
+    "field_image_editor2": "",
+    "field_type": "shadow",
+    "field_type2": "",
+    "field_multipliers": [],
+    "field_description": "Shade Man's Favorite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/shade-man-mm7",
+    "field_background": "haunted-mansion",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "haunted-mansion",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
