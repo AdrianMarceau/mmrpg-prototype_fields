@@ -93,10 +93,15 @@
         "group_order": 7,
         "group_child_tokens": [
             "satellite-deck",
-            "sunset-gulch",
+            "trenchwork-depot",
             "crystal-catacombs",
+            "sunset-gulch",
+            "haunted-mansion",
+            "waterworks-dam",
             "gemstone-cavern",
-            "glacier-cradle"
+            "minefield-dunes",
+            "glacier-cradle",
+            "sonic-highway"
         ]
     },
     "MMRPG\/Events": {
