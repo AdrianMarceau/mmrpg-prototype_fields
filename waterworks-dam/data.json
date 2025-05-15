@@ -1,0 +1,124 @@
+{
+    "field_token": "waterworks-dam",
+    "field_name": "Waterworks Dam",
+    "field_game": "MM9",
+    "field_class": "master",
+    "field_master": "concrete-man",
+    "field_master2": [],
+    "field_mechas": [
+        "bombomboy",
+        "picket-man"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "impact",
+    "field_type2": "",
+    "field_multipliers": {
+        "impact": 1.5,
+        "water": 1.4,
+        "nature": 1.2
+    },
+    "field_description": "Concrete Man's Favorite Field",
+    "field_description2": "Concrete Man's pride and domain, this massive hydroelectric dam powers the nearby cities while keeping the wild forest at bay. The walls are thick, the waterfalls loud, and every corner feels like it's meticulously built to last forever. Camouflaged Bombomboy mechas patrol the ledges, dropping their payloads to keep intruders out. Impact attacks shake the dam\u2019s old bones best here \u2014 just be careful not to bring the whole place down while you\u2019re at it!",
+    "field_music": "sega-remix\/concrete-man-mm9",
+    "field_background": "waterworks-dam",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 80,
+            "offset_y": 112,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -40,
+            "offset_y": 170,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 100,
+            "offset_y": 177,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": -97,
+            "offset_y": 177,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 500,
+            "offset_y": 190,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 500,
+            "offset_y": 190,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_foreground": "waterworks-dam",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": {
+        "mecha-07": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-08": {
+            "class": "robot",
+            "size": 80,
+            "offset_x": -100,
+            "offset_y": 0,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
