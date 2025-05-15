@@ -1,0 +1,34 @@
+{
+    "field_token": "trenchwork-depot",
+    "field_name": "Trenchwork Depot",
+    "field_game": "MM5",
+    "field_class": "master",
+    "field_master": "napalm-man",
+    "field_master2": [],
+    "field_mechas": [
+        "bombardier",
+        "molier"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "explode",
+    "field_type2": "",
+    "field_multipliers": {
+        "explode": 1.5,
+        "nature": 1.3,
+        "earth": 1.3
+    },
+    "field_description": "Napalm Man's Favorite Field",
+    "field_description2": "",
+    "field_music": "sega-remix\/napalm-man-mm5",
+    "field_background": "trenchwork-depot",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "trenchwork-depot",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
