@@ -24,52 +24,7 @@
     "field_background_attachments": [],
     "field_foreground": "gentle-countryside",
     "field_foreground_frame": [],
-    "field_foreground_attachments": {
-        "object-01": {
-            "class": "object",
-            "size": 80,
-            "offset_x": 12,
-            "offset_y": 121,
-            "object_token": "light-lab",
-            "object_frame": [
-                0
-            ],
-            "object_direction": "right"
-        },
-        "object-02": {
-            "class": "object",
-            "size": 80,
-            "offset_x": 92,
-            "offset_y": 121,
-            "object_token": "light-lab",
-            "object_frame": [
-                1
-            ],
-            "object_direction": "right"
-        },
-        "object-03": {
-            "class": "object",
-            "size": 80,
-            "offset_x": 12,
-            "offset_y": 201,
-            "object_token": "light-lab",
-            "object_frame": [
-                2
-            ],
-            "object_direction": "right"
-        },
-        "object-04": {
-            "class": "object",
-            "size": 80,
-            "offset_x": 92,
-            "offset_y": 201,
-            "object_token": "light-lab",
-            "object_frame": [
-                3
-            ],
-            "object_direction": "right"
-        }
-    },
+    "field_foreground_attachments": [],
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
     "field_flag_published": 1
