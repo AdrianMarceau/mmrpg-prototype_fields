@@ -14,7 +14,11 @@
     "field_image_editor2": "",
     "field_type": "shadow",
     "field_type2": "",
-    "field_multipliers": [],
+    "field_multipliers": {
+        "shadow": 1.6,
+        "nature": 1.2,
+        "flame": 1.3
+    },
     "field_description": "Shade Man's Favorite Stage",
     "field_description2": "",
     "field_music": "sega-remix\/shade-man-mm7",
