@@ -5,7 +5,11 @@
     "field_class": "master",
     "field_master": "jewel-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "diaymon",
+        "spike-pusher",
+        "crystal-joe"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
@@ -21,12 +25,56 @@
     "field_music": "sega-remix\/jewel-man-mm9",
     "field_background": "gemstone-cavern",
     "field_background_frame": [],
-    "field_background_attachments": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 186,
+            "offset_y": 152,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 30,
+            "offset_y": 145,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 290,
+            "offset_y": 88,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 84,
+            "offset_y": 168,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        }
+    },
     "field_foreground": "gemstone-cavern",
     "field_foreground_frame": [],
     "field_foreground_attachments": [],
     "field_flag_hidden": 0,
-    "field_flag_complete": 0,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_complete": 1,
+    "field_flag_published": 1
 }
