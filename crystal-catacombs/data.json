@@ -5,7 +5,11 @@
     "field_class": "master",
     "field_master": "crystal-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "crystal-joe",
+        "pukapunter",
+        "tatepakkan"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
@@ -21,12 +25,56 @@
     "field_music": "sega-remix\/crystal-man-mm5",
     "field_background": "crystal-catacombs",
     "field_background_frame": [],
-    "field_background_attachments": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 155,
+            "offset_y": 157,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 65,
+            "offset_y": 173,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 242,
+            "offset_y": 159,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 72,
+            "offset_y": 192,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
     "field_foreground": "crystal-catacombs",
     "field_foreground_frame": [],
     "field_foreground_attachments": [],
     "field_flag_hidden": 0,
-    "field_flag_complete": 0,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_complete": 1,
+    "field_flag_published": 1
 }
