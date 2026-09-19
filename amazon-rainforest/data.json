@@ -1,0 +1,35 @@
+{
+    "field_token": "amazon-rainforest",
+    "field_name": "Amazon Rainforest",
+    "field_game": "MM6",
+    "field_class": "master",
+    "field_master": "plant-man",
+    "field_master2": [],
+    "field_mechas": [
+        "petal-anne",
+        "kabuton",
+        "propeller-eye"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "nature",
+    "field_type2": "",
+    "field_multipliers": {
+        "nature": 1.6,
+        "water": 1.4,
+        "flame": 0.4
+    },
+    "field_description": "Plant Man's Favourite Field",
+    "field_description2": "",
+    "field_music": "sega-remix\/plant-man-mm6",
+    "field_background": "amazon-rainforest",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "amazon-rainforest",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
