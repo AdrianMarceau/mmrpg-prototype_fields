@@ -1,0 +1,103 @@
+{
+    "field_token": "savage-menagerie",
+    "field_name": "Savage Menagerie",
+    "field_game": "MM7",
+    "field_class": "master",
+    "field_master": "slash-man",
+    "field_master2": [],
+    "field_mechas": [
+        "eggalodon",
+        "cline",
+        "shururun",
+        "bombomboy"
+    ],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "nature",
+    "field_type2": "",
+    "field_multipliers": {
+        "nature": 1.4,
+        "cutter": 1.6,
+        "wind": 0.6
+    },
+    "field_description": "Slash Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/slash-man-mm7",
+    "field_background": "savage-menagerie",
+    "field_background_frame": [],
+    "field_background_attachments": {
+        "mecha-01": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 100,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-02": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 250,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-03": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 250,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-04": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 100,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        },
+        "mecha-05": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 700,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "right"
+        },
+        "mecha-06": {
+            "class": "robot",
+            "size": 40,
+            "offset_x": 752,
+            "offset_y": 62,
+            "robot_token": "met",
+            "robot_frame": [
+                0
+            ],
+            "robot_direction": "left"
+        }
+    },
+    "field_foreground": "savage-menagerie",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
