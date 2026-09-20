@@ -1,0 +1,31 @@
+{
+    "field_token": "frosty-slopes",
+    "field_name": "Frosty Slopes",
+    "field_game": "MMRPG",
+    "field_class": "master",
+    "field_master": "frost-man",
+    "field_master2": [],
+    "field_mechas": [],
+    "field_image": "",
+    "field_image_editor": "adrianmarceau",
+    "field_image_editor2": "",
+    "field_type": "freeze",
+    "field_type2": "",
+    "field_multipliers": {
+        "freeze": 1.5,
+        "swift": 1.4,
+        "earth": 0.6
+    },
+    "field_description": "Frost Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/frost-man-mm8",
+    "field_background": "frosty-slopes",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "frosty-slopes",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
