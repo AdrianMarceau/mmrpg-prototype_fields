@@ -1,0 +1,35 @@
+{
+    "field_token": "baseball-stadium",
+    "field_name": "Baseball Stadium",
+    "field_game": "MM10",
+    "field_class": "master",
+    "field_master": "strike-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pitchan",
+        "monking-r",
+        "goriblue"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "impact",
+    "field_type2": "",
+    "field_multipliers": {
+        "impact": 1.5,
+        "swift": 1.4,
+        "nature": 0.6
+    },
+    "field_description": "Strike Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/strike-man-mm10",
+    "field_background": "baseball-stadium",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "baseball-stadium",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
