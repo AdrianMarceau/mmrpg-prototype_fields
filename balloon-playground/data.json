@@ -1,0 +1,31 @@
+{
+    "field_token": "balloon-playground",
+    "field_name": "Balloon Playground",
+    "field_game": "MM11",
+    "field_class": "master",
+    "field_master": "bounce-man",
+    "field_master2": [],
+    "field_mechas": [],
+    "field_image": "",
+    "field_image_editor": "",
+    "field_image_editor2": "",
+    "field_type": "swift",
+    "field_type2": "",
+    "field_multipliers": {
+        "swift": 1.5,
+        "wind": 1.4,
+        "impact": 0.4
+    },
+    "field_description": "",
+    "field_description2": "",
+    "field_music": "",
+    "field_background": "balloon-playground",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "balloon-playground",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
