@@ -103,13 +103,12 @@
             "offset_y": 0,
             "robot_token": "met",
             "robot_frame": [
-                1
+                0
             ],
             "robot_direction": "left"
         }
     },
     "field_flag_hidden": 0,
     "field_flag_complete": 1,
-    "field_flag_published": 1,
-    "field_music_link": []
+    "field_flag_published": 1
 }
