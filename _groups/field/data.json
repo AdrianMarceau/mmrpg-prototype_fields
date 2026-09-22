@@ -87,9 +87,9 @@
             "robosaur-boneyard"
         ]
     },
-    "MM98\/Master": {
+    "MM97\/Master": {
         "group_class": "field",
-        "group_token": "MM98\/Master",
+        "group_token": "MM97\/Master",
         "group_order": 7,
         "group_child_tokens": [
             "satellite-deck",
@@ -102,9 +102,9 @@
             "glacier-cradle"
         ]
     },
-    "MM99\/Master": {
+    "MM98\/Master": {
         "group_class": "field",
-        "group_token": "MM99\/Master",
+        "group_token": "MM98\/Master",
         "group_order": 8,
         "group_child_tokens": [
             "verdant-rainforest",
@@ -112,16 +112,24 @@
             "gemstone-cavern",
             "sonic-highway",
             "baseball-stadium",
-            "solar-inferno",
+            "solar-inferno"
+        ]
+    },
+    "MM99\/Master": {
+        "group_class": "field",
+        "group_token": "MM99\/Master",
+        "group_order": 9,
+        "group_child_tokens": [
             "savage-menagerie",
             "frozen-boulevard",
-            "sparkling-grotto"
+            "sparkling-grotto",
+            "balloon-playground"
         ]
     },
     "MMRPG\/Events": {
         "group_class": "field",
         "group_token": "MMRPG\/Events",
-        "group_order": 9,
+        "group_order": 10,
         "group_child_tokens": [
             "robot-museum",
             "hunter-compound",
@@ -133,7 +141,7 @@
     "MMRPG\/Finale": {
         "group_class": "field",
         "group_token": "MMRPG\/Finale",
-        "group_order": 10,
+        "group_order": 11,
         "group_child_tokens": [
             "final-destination",
             "final-destination-2",
@@ -143,7 +151,7 @@
     "MMRPG\/Other": {
         "group_class": "field",
         "group_token": "MMRPG\/Other",
-        "group_order": 11,
+        "group_order": 12,
         "group_child_tokens": [
             "prototype-complete"
         ]
@@ -151,7 +159,7 @@
     "Hidden": {
         "group_class": "field",
         "group_token": "Hidden",
-        "group_order": 12,
+        "group_order": 13,
         "group_child_tokens": [
             "intro-field"
         ]
