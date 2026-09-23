@@ -1,0 +1,37 @@
+{
+    "field_token": "medieval-castle",
+    "field_name": "Medieval Castle",
+    "field_game": "MM6",
+    "field_class": "master",
+    "field_master": "knight-man",
+    "field_master2": [],
+    "field_mechas": [
+        "merserker",
+        "molier",
+        "kabuton",
+        "ben-k"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "cutter",
+    "field_type2": "",
+    "field_multipliers": {
+        "cutter": 1.5,
+        "impact": 1.2,
+        "shield": 1.2,
+        "flame": 0.4
+    },
+    "field_description": "Knight Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/knight-man-mm6",
+    "field_background": "medieval-castle",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "medieval-castle",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
