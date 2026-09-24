@@ -5,13 +5,19 @@
     "field_class": "master",
     "field_master": "",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "diaymon"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
     "field_type": "crystal",
     "field_type2": "",
-    "field_multipliers": [],
+    "field_multipliers": {
+        "crystal": 1.5,
+        "laser": 1.4,
+        "shadow": 0.6
+    },
     "field_description": "Someone's Favourite Field",
     "field_description2": "",
     "field_music": "sega-remix\/astro-man-rnf",
