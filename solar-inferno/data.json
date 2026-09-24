@@ -5,7 +5,12 @@
     "field_class": "master",
     "field_master": "solar-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "sola-rei",
+        "petal-anne",
+        "shield-attacker-trl",
+        "cline"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
