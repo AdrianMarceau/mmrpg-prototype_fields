@@ -1,0 +1,35 @@
+{
+    "field_token": "galaxy-fantasy",
+    "field_name": "Galaxy Fantasy",
+    "field_game": "MM9",
+    "field_class": "master",
+    "field_master": "galaxy-man",
+    "field_master2": [],
+    "field_mechas": [
+        "adamski",
+        "novamite",
+        "shururun"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "space",
+    "field_type2": "",
+    "field_multipliers": {
+        "space": 1.5,
+        "laser": 1.4,
+        "impact": 0.6
+    },
+    "field_description": "Galaxy Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/galaxy-man-mm9",
+    "field_background": "galaxy-fantasy",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "galaxy-fantasy",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
