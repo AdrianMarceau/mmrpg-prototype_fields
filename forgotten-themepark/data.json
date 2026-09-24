@@ -1,0 +1,36 @@
+{
+    "field_token": "forgotten-themepark",
+    "field_name": "Forgotten Themepark",
+    "field_game": "MM11",
+    "field_class": "master",
+    "field_master": "blast-man",
+    "field_master2": [],
+    "field_mechas": [
+        "shimobey",
+        "killer-bullet",
+        "oni-robo",
+        "bikky-bomb"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "explode",
+    "field_type2": "",
+    "field_multipliers": {
+        "explode": 1.5,
+        "electric": 1.2,
+        "time": 0.8
+    },
+    "field_description": "Blast Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/blast-man-mm11",
+    "field_background": "forgotten-themepark",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "forgotten-themepark",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
