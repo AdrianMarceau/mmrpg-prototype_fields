@@ -5,7 +5,12 @@
     "field_class": "master",
     "field_master": "frost-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "penpen-ev",
+        "frosty-throwman",
+        "nitron-b",
+        "peng"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
