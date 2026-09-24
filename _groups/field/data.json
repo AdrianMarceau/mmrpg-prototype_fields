@@ -112,7 +112,9 @@
             "gemstone-cavern",
             "sonic-highway",
             "striker-stadium",
-            "solar-inferno"
+            "solar-inferno",
+            "medieval-castle",
+            "galaxy-fantasy"
         ]
     },
     "MM99\/Master": {
@@ -123,7 +125,8 @@
             "savage-menagerie",
             "frozen-boulevard",
             "sparkling-grotto",
-            "balloon-playground"
+            "balloon-playground",
+            "forgotten-themepark"
         ]
     },
     "MMRPG\/Events": {
