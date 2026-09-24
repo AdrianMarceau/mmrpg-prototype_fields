@@ -16,7 +16,12 @@
     "field_image_editor2": "",
     "field_type": "freeze",
     "field_type2": "",
-    "field_multipliers": [],
+    "field_multipliers": {
+        "freeze": 1.5,
+        "swift": 1.2,
+        "wind": 1.2,
+        "flame": 0.8
+    },
     "field_description": "Tundra Man's Favourite Stage",
     "field_description2": "",
     "field_music": "sega-remix\/tundra-man-mm11",
