@@ -1,0 +1,36 @@
+{
+    "field_token": "ancient-temple",
+    "field_name": "Ancient Temple",
+    "field_game": "MMRPG",
+    "field_class": "master",
+    "field_master": "wind-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pandeeta",
+        "krushdiver",
+        "bombardier",
+        "pukapunter"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "wind",
+    "field_type2": "",
+    "field_multipliers": {
+        "wind": 1.5,
+        "electric": 1.4,
+        "earth": 0.6
+    },
+    "field_description": "Wind Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/wind-man-mm6",
+    "field_background": "ancient-temple",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "ancient-temple",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
