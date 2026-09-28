@@ -1,0 +1,35 @@
+{
+    "field_token": "sunken-metropolis",
+    "field_name": "Sunken Metropolis",
+    "field_game": "MM6",
+    "field_class": "master",
+    "field_master": "centaur-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pelicanu",
+        "pooker",
+        "kabuton"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "time",
+    "field_type2": "",
+    "field_multipliers": {
+        "time": 1.5,
+        "water": 1.4,
+        "nature": 1.3
+    },
+    "field_description": "Centaur Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/centaur-man-mm6",
+    "field_background": "sunken-metropolis",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "sunken-metropolis",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
