@@ -5,7 +5,12 @@
     "field_class": "master",
     "field_master": "bounce-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "tosanaizer-v",
+        "ballonboo",
+        "coiln",
+        "pukapunter"
+    ],
     "field_image": "",
     "field_image_editor": "adrianmarceau",
     "field_image_editor2": "",
@@ -16,9 +21,9 @@
         "wind": 1.4,
         "impact": 0.4
     },
-    "field_description": "",
+    "field_description": "Bounce Man's Favourite Stage",
     "field_description2": "",
-    "field_music": "",
+    "field_music": "sega-remix\/bounce-man-mm11",
     "field_background": "balloon-playground",
     "field_background_frame": [],
     "field_background_attachments": [],
