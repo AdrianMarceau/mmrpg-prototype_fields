@@ -1,0 +1,35 @@
+{
+    "field_token": "virtual-dreamscape",
+    "field_name": "Virtual Dreamscape",
+    "field_game": "MMRPG",
+    "field_class": "master",
+    "field_master": "sheep-man",
+    "field_master2": [],
+    "field_mechas": [
+        "pointan",
+        "flipping-suzy",
+        "pukapunter"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "electric",
+    "field_type2": "",
+    "field_multipliers": {
+        "electric": 1.5,
+        "laser": 1.4,
+        "nature": 0.6
+    },
+    "field_description": "Sheep Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/sheep-man-mm10",
+    "field_background": "virtual-dreamscape",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "virtual-dreamscape",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
