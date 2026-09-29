@@ -5,13 +5,22 @@
     "field_class": "master",
     "field_master": "search-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "sniper-joe",
+        "eggalodon",
+        "goriblue",
+        "covercannon"
+    ],
     "field_image": "",
     "field_image_editor": "milansaponja",
     "field_image_editor2": "",
     "field_type": "missile",
     "field_type2": "",
-    "field_multipliers": [],
+    "field_multipliers": {
+        "missile": 1.5,
+        "flame": 1.4,
+        "nature": 1.2
+    },
     "field_description": "Search Man's Favourite Stage",
     "field_description2": "",
     "field_music": "sega-remix\/search-man-mm8",
