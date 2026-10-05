@@ -5,16 +5,24 @@
     "field_class": "master",
     "field_master": "stone-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "rockscotch",
+        "air-stone",
+        "beetle-borg"
+    ],
     "field_image": "",
     "field_image_editor": "milansaponja",
     "field_image_editor2": "",
     "field_type": "earth",
     "field_type2": "",
-    "field_multipliers": [],
-    "field_description": "",
+    "field_multipliers": {
+        "earth": 1.5,
+        "nature": 1.3,
+        "wind": 0.9
+    },
+    "field_description": "Stone Man's Favourite Stage",
     "field_description2": "",
-    "field_music": "",
+    "field_music": "sega-remix\/stone-man-mm5",
     "field_background": "secluded-summit",
     "field_background_frame": [],
     "field_background_attachments": [],
