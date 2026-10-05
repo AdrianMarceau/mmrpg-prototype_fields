@@ -87,54 +87,74 @@
             "robosaur-boneyard"
         ]
     },
-    "MM97\/Master": {
+    "MM90\/Master": {
         "group_class": "field",
-        "group_token": "MM97\/Master",
+        "group_token": "MM90\/Master",
         "group_order": 7,
         "group_child_tokens": [
-            "satellite-deck",
-            "trenchwork-depot",
             "crystal-catacombs",
-            "sunset-gulch",
+            "trenchwork-depot",
             "haunted-mansion",
             "waterworks-dam",
             "minefield-dunes",
-            "glacier-cradle"
+            "glacier-cradle",
+            "sunset-gulch",
+            "satellite-deck"
         ]
     },
-    "MM98\/Master": {
+    "MM91\/Master": {
         "group_class": "field",
-        "group_token": "MM98\/Master",
+        "group_token": "MM91\/Master",
         "group_order": 8,
         "group_child_tokens": [
             "verdant-rainforest",
-            "frosty-slopes",
-            "gemstone-cavern",
-            "sonic-highway",
-            "striker-stadium",
-            "solar-inferno",
             "medieval-castle",
-            "galaxy-fantasy"
+            "frosty-slopes",
+            "galaxy-fantasy",
+            "gemstone-cavern",
+            "striker-stadium",
+            "sonic-highway",
+            "solar-inferno"
+        ]
+    },
+    "MM92\/Master": {
+        "group_class": "field",
+        "group_token": "MM92\/Master",
+        "group_order": 9,
+        "group_child_tokens": [
+            "savage-menagerie",
+            "frozen-boulevard",
+            "balloon-playground",
+            "forgotten-themepark",
+            "sunken-metropolis",
+            "ancient-temple",
+            "chemical-zone",
+            "virtual-dreamscape"
+        ]
+    },
+    "MM93\/Master": {
+        "group_class": "field",
+        "group_token": "MM93\/Master",
+        "group_order": 10,
+        "group_child_tokens": [
+            "secluded-summit",
+            "military-hideout",
+            "deep-ocean",
+            "voltage-regulator"
         ]
     },
     "MM99\/Master": {
         "group_class": "field",
         "group_token": "MM99\/Master",
-        "group_order": 9,
+        "group_order": 11,
         "group_child_tokens": [
-            "savage-menagerie",
-            "frozen-boulevard",
-            "sparkling-grotto",
-            "balloon-playground",
-            "forgotten-themepark",
-            "sunken-metropolis",
-            "ancient-temple"
+            "sparkling-grotto"
         ]
     },
     "MMRPG\/Events": {
         "group_class": "field",
         "group_token": "MMRPG\/Events",
-        "group_order": 10,
+        "group_order": 12,
         "group_child_tokens": [
             "robot-museum",
             "hunter-compound",
@@ -146,7 +166,7 @@
     "MMRPG\/Finale": {
         "group_class": "field",
         "group_token": "MMRPG\/Finale",
-        "group_order": 11,
+        "group_order": 13,
         "group_child_tokens": [
             "final-destination",
             "final-destination-2",
@@ -156,7 +176,7 @@
     "MMRPG\/Other": {
         "group_class": "field",
         "group_token": "MMRPG\/Other",
-        "group_order": 12,
+        "group_order": 14,
         "group_child_tokens": [
             "prototype-complete"
         ]
@@ -164,7 +184,7 @@
     "Hidden": {
         "group_class": "field",
         "group_token": "Hidden",
-        "group_order": 13,
+        "group_order": 15,
         "group_child_tokens": [
             "intro-field"
         ]
