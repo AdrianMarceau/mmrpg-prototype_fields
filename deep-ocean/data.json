@@ -5,16 +5,24 @@
     "field_class": "master",
     "field_master": "splash-woman",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "octone",
+        "bui-boi",
+        "ballonboo"
+    ],
     "field_image": "",
     "field_image_editor": "milansaponja",
     "field_image_editor2": "",
     "field_type": "water",
     "field_type2": "",
-    "field_multipliers": [],
-    "field_description": "",
+    "field_multipliers": {
+        "water": 1.5,
+        "electric": 1.4,
+        "flame": 0.6
+    },
+    "field_description": "Splash Woman's Favourite Stage",
     "field_description2": "",
-    "field_music": "",
+    "field_music": "sega-remix\/splash-woman-mm9",
     "field_background": "deep-ocean",
     "field_background_frame": [],
     "field_background_attachments": [],
