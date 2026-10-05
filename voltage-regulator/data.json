@@ -5,13 +5,21 @@
     "field_class": "master",
     "field_master": "fuse-man",
     "field_master2": [],
-    "field_mechas": [],
+    "field_mechas": [
+        "electriri",
+        "plasma-plus",
+        "elec-n"
+    ],
     "field_image": "",
     "field_image_editor": "milansaponja",
     "field_image_editor2": "",
     "field_type": "electric",
     "field_type2": "",
-    "field_multipliers": [],
+    "field_multipliers": {
+        "electric": 1.5,
+        "laser": 1.3,
+        "swift": 1.2
+    },
     "field_description": "Fuse Man's Favourite Stage",
     "field_description2": "",
     "field_music": "mm11-ost\/fuse-man",
