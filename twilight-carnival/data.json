@@ -1,0 +1,35 @@
+{
+    "field_token": "twilight-carnival",
+    "field_name": "Twilight Carnival",
+    "field_game": "RnF",
+    "field_class": "master",
+    "field_master": "magic-man",
+    "field_master2": [],
+    "field_mechas": [
+        "romper",
+        "pierrobot",
+        "shimobey"
+    ],
+    "field_image": "",
+    "field_image_editor": "milansaponja",
+    "field_image_editor2": "",
+    "field_type": "shadow",
+    "field_type2": "",
+    "field_multipliers": {
+        "shadow": 1.5,
+        "electric": 1.4,
+        "time": 0.9
+    },
+    "field_description": "Magic Man's Favourite Stage",
+    "field_description2": "",
+    "field_music": "sega-remix\/magic-man-rnf",
+    "field_background": "twilight-carnival",
+    "field_background_frame": [],
+    "field_background_attachments": [],
+    "field_foreground": "twilight-carnival",
+    "field_foreground_frame": [],
+    "field_foreground_attachments": [],
+    "field_flag_hidden": 0,
+    "field_flag_complete": 1,
+    "field_flag_published": 1
+}
