@@ -126,7 +126,8 @@
         "group_order": 10,
         "group_child_tokens": [
             "military-hideout",
-            "frosty-slopes"
+            "frosty-slopes",
+            "twilight-carnival"
         ]
     },
     "MM09\/Masters": {
@@ -135,6 +136,7 @@
         "group_order": 11,
         "group_child_tokens": [
             "waterworks-dam",
+            "thunder-tornado",
             "deep-ocean",
             "gemstone-cavern",
             "galaxy-fantasy"
